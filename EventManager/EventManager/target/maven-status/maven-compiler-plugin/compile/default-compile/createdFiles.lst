@@ -1,0 +1,16 @@
+com\mycompany\eventmanager\User.class
+com\mycompany\eventmanager\Event.class
+view\Footer.class
+view\Menu.class
+view\AddAgenda.class
+view\EventPanel.class
+view\Window.class
+com\mycompany\eventmanager\EventManager.class
+view\AgendaPanel.class
+view\Content.class
+view\addUser.class
+view\Add.class
+controller\Control.class
+controller\Main.class
+com\mycompany\eventmanager\Agenda.class
+view\Buttons.class
