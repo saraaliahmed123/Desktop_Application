@@ -6,9 +6,9 @@ The Event Manager Desktop App is a Java-based application designed to streamline
 
 ## Features
 
-- **User Management:** Easily create and manage user accounts with personalized profiles.
 - **Event Creation:** Create events, specifying event details such as date, time, location, and description.
 - **Agenda Items:** Add agenda items to events, helping users organize event schedules effectively.
+- **File saving** Save and Load from an existing file.
 
 ## Getting Started
 
@@ -17,9 +17,3 @@ To get started with the Event Manager Desktop App, follow these steps:
 1. Clone the repository
 2. Open the project in your preferred Java IDE.
 3. Build and run the application.
-
-## Usage
-
-- **Event Creation:** Create events, providing event details and descriptions.
-- **Agenda Management:** Add, edit, or delete agenda items for events.
-- **File saving** Save and Load from an existing file.
